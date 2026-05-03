@@ -16,6 +16,9 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Install TinyTex (for PDF)
+        run: quarto install tinytex
+
       - name: Render Documents
         run: |
           quarto render 01_Prijava_EU_Projekta/index.md
