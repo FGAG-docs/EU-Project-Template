@@ -1,0 +1,29 @@
+project:
+  type: default
+
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    geometry:
+      - top=25mm
+      - left=25mm
+      - right=25mm
+      - bottom=25mm
+    include-in-header: custom-header.tex
+    fontsize: 11pt
+    mainfont: Arial
+    number-sections: true
+    colorlinks: true
+    toc: true
+    toc-title: "Sadržaj"
+
+  docx:
+    reference-doc: template.docx
+    number-sections: true
+    toc: true
+    toc-title: "Sadržaj"
+
+bibliography: references.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
+lang: hr

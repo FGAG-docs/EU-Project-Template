@@ -1,0 +1,9 @@
+.quarto/
+*.html
+*.pdf
+*.docx
+.DS_Store
+.obsidian/workspace.json
+
+/.quarto/
+**/*.quarto_ipynb

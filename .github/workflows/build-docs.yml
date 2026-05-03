@@ -1,0 +1,32 @@
+name: Quarto Publish
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render Documents
+        run: |
+          quarto render 01_Prijava_EU_Projekta/index.md
+          quarto render 02_Izvjestaji/Izvjestaj_M1.md
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: Projektna-Dokumentacija
+          path: |
+            01_Prijava_EU_Projekta/*.pdf
+            01_Prijava_EU_Projekta/*.docx
+            02_Izvjestaji/*.pdf
+            02_Izvjestaji/*.docx
