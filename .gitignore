@@ -9,6 +9,11 @@
 !logo_institucije.png
 .DS_Store
 .obsidian/workspace.json
+.obsidian/workspace
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json
+.obsidian/plugins/obsidian-git/data.json
 
 /.quarto/
 **/*.quarto_ipynb
