@@ -5,7 +5,8 @@ Ovdje Ana piše svoj dio prijave, koji će se automatski spojiti u glavni [[inde
 Ona ne vidi što rade Marko i Ivan, fokusirana je samo na svoj dio.
 
 
-#### Tekst
+Unosi neki tekst:
+
 Dana 21. travnja 2026. godine studenti treće godine Stručnog prijediplomskog studija Građevinarstvo, na izbornom kolegiju **Potporne građevine i građevne jame** prisustvovali su terenskoj nastavi i stručnom posjetu gradilištu sanacije potpornog zida u ulici Šetalište Ivana Meštrovića na Marjanu, uz zgradu Instituta za oceanografiju i ribarstvo u Splitu.
 
 Ovaj naizgled neprimjetan zid predstavljao je ozbiljnu ugrozu za promet i za stanare neposredno uz njega te se pristupilo temeljitoj sanaciji.
