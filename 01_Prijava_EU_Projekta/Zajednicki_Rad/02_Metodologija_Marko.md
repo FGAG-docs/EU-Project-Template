@@ -15,4 +15,6 @@ Radionica održana 5. rujna, pod nazivom “Komunikacija i grupna dinamika u vis
 Radionica održana 10. rujna, “Suvremene nastavne strategije i metode u visokoškolskoj nastavi,” koju su vodile izv. dr. sc. Tonća Jukić i doc. dr. sc. Suzana Tomaš, bila je posvećena suvremenim strategijama poučavanja i metodama u nastavi, s posebnim fokusom na e-učenje.
 
 Radionice su organizirane s ciljem kontinuiranog unapređenja nastavničkih kompetencija i podizanja kvalitete nastave. Obje radionice su bile izuzetno uspješne zahvaljujući velikom interesu i angažiranosti sudionika. Svaka radionica okupila je 30-ak sudionika, a interaktivni format omogućio je razmjenu iskustava i otvorenu diskusiju.
-![[FGAG_Ulaz.jpg]]
+
+![Ulaz FGAG](Zajednicki_Rad/slike/FGAG_Ulaz.jpg)
+
