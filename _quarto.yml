@@ -1,5 +1,9 @@
 project:
   type: default
+  render:
+    - "01_Prijava_EU_Projekta/index.md"
+    - "02_Izvjestaji/Izvjestaj_M1.md"
+    - "03_Sastanci/Zapisnik_Kickoff.md"
 
 format:
   pdf:
