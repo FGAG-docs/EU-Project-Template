@@ -18,11 +18,6 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Install TinyTex (for PDF)
-        run: quarto install tinytex
-        env:
-          GH_TOKEN: ${{ github.token }}
-
       - name: Render Documents
         run: |
           quarto render 01_Prijava_EU_Projekta/index.md
@@ -33,7 +28,5 @@ jobs:
         with:
           name: Projektna-Dokumentacija
           path: |
-            01_Prijava_EU_Projekta/*.pdf
             01_Prijava_EU_Projekta/*.docx
-            02_Izvjestaji/*.pdf
             02_Izvjestaji/*.docx

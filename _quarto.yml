@@ -6,22 +6,6 @@ project:
     - "03_Sastanci/Zapisnik_Kickoff.md"
 
 format:
-  pdf:
-    documentclass: article
-    papersize: a4
-    geometry:
-      - top=25mm
-      - left=25mm
-      - right=25mm
-      - bottom=25mm
-    include-in-header: custom-header.tex
-    fontsize: 11pt
-    # mainfont: Arial # Zakomentirano jer Linux (GitHub) serveri nemaju Microsoft fontove.
-    number-sections: true
-    colorlinks: true
-    toc: true
-    toc-title: "Sadržaj"
-
   docx:
     reference-doc: template.docx
     number-sections: true
