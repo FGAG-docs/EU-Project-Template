@@ -26,7 +26,6 @@
 \usepackage{lmodern}
 \ifPDFTeX\else
   % xetex/luatex font selection
-  \setmainfont[]{Arial}
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -136,10 +135,6 @@
 \else
 \usepackage[bidi=default,shorthands=off]{babel}
 \fi
-\ifPDFTeX
-\else
-\babelfont{rm}[]{Arial}
-\fi
 \ifLuaTeX
   \usepackage{selnolig} % disable illegal ligatures
 \fi
@@ -164,7 +159,7 @@
 \fancyhead{}
 
 % Ovdje administracija može aktivirati logo (maknuti %)
-% \fancyhead[L]{\includegraphics[height=1.5cm]{logo_institucije.png}}
+\fancyhead[L]{\includegraphics[height=1.5cm]{logo_fgag.png}}
 
 \fancyhead[R]{\textit{EU Projekt - Službena Dokumentacija}}
 \renewcommand{\headrulewidth}{0.4pt}
@@ -213,8 +208,6 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
 \hypersetup{
-  pdftitle={Prijava EU Projekta: Inovacije u građevinarstvu},
-  pdfauthor={Tim A},
   pdflang={hr},
   colorlinks=true,
   linkcolor={blue},
@@ -224,11 +217,9 @@
   pdfcreator={LaTeX via pandoc}}
 
 
-\title{Prijava EU Projekta: Inovacije u građevinarstvu}
-\author{Tim A}
-\date{2026-05-03}
+\author{}
+\date{}
 \begin{document}
-\maketitle
 
 \renewcommand*\contentsname{Sadržaj}
 {
@@ -236,50 +227,21 @@
 \tableofcontents
 }
 
-\section{Uvod}\label{uvod}
+\section{1. Sažetak i Uvod (Ana)}\label{saux17eetak-i-uvod-ana}
 
-Ovaj dokument spaja sve dijelove prijave u jedan službeni dokument.
-
-\subsection{1. Sažetak i Uvod (Ana)}\label{saux17eetak-i-uvod-ana}
-
-Ovdje Ana piše svoj dio prijave. Može citirati literaturu ovako: prema
-najnovijim istraživanjima (Horvat, 2024), upravljanje podacima je
+Ovdje Ana piše svoj dio prijave, koji će se automatski spojiti u glavni
+{[}{[}index{]}{]} dokument. Može citirati literaturu ovako: prema
+najnovijim istraživanjima (Hranić, 2024), upravljanje podacima je
 ključno.
 
 Ona ne vidi što rade Marko i Ivan, fokusirana je samo na svoj dio.
 
-\subsection{2. Metodologija (Marko)}\label{metodologija-marko}
-
-Marko razrađuje metodologiju. Može ubacivati tablice:
-
-{\def\LTcaptype{none} % do not increment counter
-\begin{longtable}[]{@{}lll@{}}
-\toprule\noalign{}
-Faza & Trajanje & Odgovornost \\
-\midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-Priprema & M1-M2 & Ana \\
-Izvedba & M3-M10 & Marko \\
-\end{longtable}
-}
-
-\subsection{3. Proračun (Ivan)}\label{proraux10dun-ivan}
-
-Ivan je odgovoran za financije.
-
-Budžet je planiran u skladu s EU direktivama. Svi troškovi su vezani uz
-specifične radne pakete.
-
-\section{Literatura}\label{literatura}
-
 \protect\phantomsection\label{refs}
 \begin{CSLReferences}{1}{0}
 \bibitem[\citeproctext]{ref-horvat2024}
-Horvat, I., Ana i Marić. (2024). Utjecaj Docs-as-Code metodologije na
-upravljanje EU projektima. \emph{Zbornik radova građevinarstva},
-\emph{12}(3), 45--60.
+Hranić, I., Ana i Marić. (2024). Utjecaj Docs-as-Code metodologije na
+upravljanje EU projektima. \emph{Zbornik radova fgag}, \emph{12}(3),
+45--60.
 
 \end{CSLReferences}
 
