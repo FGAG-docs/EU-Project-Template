@@ -2,6 +2,11 @@
 *.html
 *.pdf
 *.docx
+
+# Zadrži template datoteke
+!template.docx
+!logo.png
+!logo_institucije.png
 .DS_Store
 .obsidian/workspace.json
 
