@@ -12,7 +12,7 @@ format:
       - bottom=25mm
     include-in-header: custom-header.tex
     fontsize: 11pt
-    mainfont: Arial
+    # mainfont: Arial # Zakomentirano jer Linux (GitHub) serveri nemaju Microsoft fontove.
     number-sections: true
     colorlinks: true
     toc: true
