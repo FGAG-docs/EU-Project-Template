@@ -20,6 +20,8 @@ jobs:
 
       - name: Install TinyTex (for PDF)
         run: quarto install tinytex
+        env:
+          GH_TOKEN: ${{ github.token }}
 
       - name: Render Documents
         run: |
