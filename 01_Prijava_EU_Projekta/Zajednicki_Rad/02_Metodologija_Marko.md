@@ -6,3 +6,4 @@ Marko razrađuje metodologiju. Može ubacivati tablice:
 |---|---|---|
 | Priprema | M1-M2 | Ana |
 | Izvedba | M3-M10 | Marko |
+
