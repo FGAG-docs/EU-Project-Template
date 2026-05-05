@@ -16,5 +16,11 @@ Radionica održana 10. rujna, “Suvremene nastavne strategije i metode u visoko
 
 Radionice su organizirane s ciljem kontinuiranog unapređenja nastavničkih kompetencija i podizanja kvalitete nastave. Obje radionice su bile izuzetno uspješne zahvaljujući velikom interesu i angažiranosti sudionika. Svaka radionica okupila je 30-ak sudionika, a interaktivni format omogućio je razmjenu iskustava i otvorenu diskusiju.
 
+
 ![Ulaz FGAG](Zajednicki_Rad/slike/FGAG_Ulaz.jpg)
 
+slika se postavlja ovim kodom. Putanja do slike je relativna u odnosu na index.md
+
+```
+![Ulaz FGAG](Zajednicki_Rad/slike/FGAG_Ulaz.jpg)
+```
