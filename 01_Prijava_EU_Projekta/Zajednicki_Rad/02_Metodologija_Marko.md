@@ -24,3 +24,20 @@ slika se postavlja ovim kodom. Putanja do slike je relativna u odnosu na index.m
 ```
 ![Ulaz FGAG](Zajednicki_Rad/slike/FGAG_Ulaz.jpg)
 ```
+
+
+## Akademska etika
+
+Akademska etika obuhvaća etička načela i vrijednosti u znanosti i visokom obrazovanju: pravičnost i pravednost, ravnopravnost, poštenje, zakonitost, akademske slobode i izvrsnost, znanstvenu kritičnost. međusobno uvažavanje, zaštitu ljudskih prava i ljudskog dostojanstva, odgovornost u znanosti i visokom obrazovanju, poslovnim odnosima, odnosima prema javnosti, primjeni suvremenih tehnologija te zaštiti životinja i okoliša.
+
+FGAG štiti [akademske slobode i integritet](https://gradst.unist.hr/ustroj-fakulteta/akademski-integritet), fundamentalne elemente akademske etike. Sve ustrojbene jedinice i tijela fakulteta dužna su skrbiti se za ostvarenje i unaprjeđenje akademskih etičkih načela i vrijednosti.
+
+###   
+Dokumenti i tijela
+
+- [Europski kodeks znanstvenoistraživačke čestitosti](https://marjan.unist.hr/UserDocsImages/znanost/znanost%20novo/Europski%20kodeks%20znanstvenoistra%C5%BEiva%C4%8Dke%20%C4%8Destitosti%202023.pdf)
+- [Etički kodeks Sveučilišta u Splitu](https://marjan.unist.hr/UserDocsImages/Portals/0/DMX/2017/10/Eticki%20kodeks%20nacrt_24072009_124.pdf)
+- [Etički kodeks FGAG-a u Splitu](https://gradst.unist.hr/Portals/9/docs/Akti_Fakulteta/Eticki%20kodeks-%2020.5.2019.%20FV-novo.pdf?ver=XrArADeke9yz1uH6upAgMg%3d%3d)
+- [Pravilnik o stegovnoj odgovornosti studenata](https://gradst.unist.hr/Portals/9/docs/Akti_Fakulteta/pravilnik%20o%20stegovnoj%20odg%20%20studenata.pdf?ver=fSZfK5MvY4PHw6uaQ2m5xg%3d%3d)
+- [Pravilnik o stegovnoj odgovornosti zaposlenika FGAG-a](https://gradst.unist.hr/Portals/9/docs/Akti_Fakulteta/Pravilnik%20o%20stegovnoj%20odgovornosti%20zaposlenika-novo.pdf?ver=il1ciE6dbpPO7u4KkGhSrg%3d%3d)
+- [Etičko povjerentsvo FGAG-a](https://gradst.unist.hr/ustroj-fakulteta/odbori-i-povjerenstva)

@@ -14,3 +14,4 @@ Ovaj naizgled neprimjetan zid predstavljao je ozbiljnu ugrozu za promet i za sta
 Prilikom posjeta gradilištu, studenti su imali priliku upoznati se s projektom sanacije, sudionicima u gradnji te praktično svim fazama izvođenja potpornog zida zbog njegove velike duljine i faznog pristupa gradnji.
 
 Na gradilištu su nas dočekali i ljubazno ugostili Josip Šitum, dipl. ing. građ. predstavnik GRADA SPLITA, voditelj gradilišta Denis Šimac, ing.građ. iz tvrtke POINT SPLIT, glavni nadzorni inženjer Danijal Behmen, dipl. ing. građ. iz tvrtke KOZINA PROJEKTI te glavna projektantica sanacije Daša Salvezani, mag. ing. aedif., MBA iz tvrtke GEOTEHNIČKO PROJEKTIRANJE d.o.o., na čemu im se još jednom srdačno zahvaljujemo.
+
